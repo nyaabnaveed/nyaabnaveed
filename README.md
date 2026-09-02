@@ -88,4 +88,6 @@ Software and database project focused on food delivery operations.
 
 I'm open to **internships, freelance projects, and junior opportunities** in data, BI, analytics, and software development.
 
-**[LinkedIn](YOUR_LINKEDIN_URL)** | **[Email](nyaabnaveed@gmail.com)**
+📧 **[Email Me](mailto:nyaabnaveed@gmail.com)**
+💼 **[LinkedIn](www.linkedin.com/in/nayab-naveed)**
+
