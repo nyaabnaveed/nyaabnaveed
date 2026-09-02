@@ -2,19 +2,25 @@
 
 ### Data & BI Developer | Microsoft Fabric | SQL | Python | Power BI
 
-I'm a **BSCS student** focused on building practical data and analytics solutions. I enjoy turning raw data into meaningful insights through **data engineering, business intelligence, and automation**.
+I build practical data and analytics solutions that turn raw data into useful insights and business intelligence.
 
-Currently, I'm working with **Microsoft Fabric, SQL, Python, and Power BI**, with a particular interest in building end-to-end data platforms and real-time analytics solutions.
+My current focus is **data engineering, business intelligence, real-time analytics, and cloud-based data platforms**, with hands-on experience using Microsoft Fabric, SQL, Python, Power BI, and Azure services.
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Tech & Tools
 
-* **Data & BI:** Microsoft Fabric, Power BI, SQL
-* **Data Engineering:** Data Pipelines, Lakehouse Architecture, ETL/ELT, Real-Time Data
-* **Programming:** Python, C++
-* **Analytics:** Data Cleaning, Data Transformation, Reporting & Visualization
-* **Other:** Git, GitHub, Database Design
+**Data & BI**
+Microsoft Fabric · Power BI · SQL · Data Modeling · Data Visualization
+
+**Data Engineering**
+Data Pipelines · ETL/ELT · Lakehouse Architecture · Real-Time Data · Event Streaming
+
+**Programming**
+Python · C++
+
+**Cloud & Platforms**
+Microsoft Azure · Azure Event Hubs · Git · GitHub
 
 ---
 
@@ -22,21 +28,21 @@ Currently, I'm working with **Microsoft Fabric, SQL, Python, and Power BI**, wit
 
 ### Real-Time Insurance Analytics Platform
 
-An end-to-end analytics platform designed around a real-world insurance use case.
+An end-to-end insurance analytics platform designed to demonstrate how real-time data can be ingested, processed, and transformed into actionable business insights.
 
-**What it covers:**
+**Key areas:**
 
 * Insurance data modeling
-* SQL-based data storage
-* Data ingestion pipelines
-* Microsoft Fabric Lakehouse
+* Azure SQL data storage
+* Microsoft Fabric Data Pipelines
+* Fabric Lakehouse architecture
 * Azure Event Hubs
-* Real-time vehicle telematics
-* Eventstream processing
-* Bronze-layer architecture
+* Real-time vehicle telematics simulation
+* Fabric Eventstream processing
+* Bronze-layer data architecture
 * Analytics and BI foundations
 
-🔗 [View Project](https://github.com/nyaabnaveed/real-time-insurance-analytics-platform)
+🔗 **[View Project →](https://github.com/nyaabnaveed/real-time-insurance-analytics-platform)**
 
 ---
 
@@ -44,21 +50,21 @@ An end-to-end analytics platform designed around a real-world insurance use case
 
 ### Insurance AI Assistant
 
-An AI-focused project built around the insurance analytics domain.
+AI-focused solution built around the insurance analytics domain.
 
-🔗 [View Project](https://github.com/nyaabnaveed/insurance-ai-assistant)
+🔗 **[View Project →](https://github.com/nyaabnaveed/insurance-ai-assistant)**
 
 ### Smart Hospital Network System
 
-A software/database project focused on managing hospital network operations and information.
+Database and software solution for managing hospital network operations and information.
 
 ### Society Security & Billing System
 
-A database-oriented project for managing society residents, security and billing operations.
+Database-oriented system for managing residents, security, and billing operations.
 
 ### Food Delivery System
 
-A software project focused on food delivery operations and database management.
+Software and database project focused on food delivery operations.
 
 ---
 
@@ -68,18 +74,18 @@ A software project focused on food delivery operations and database management.
 
 ---
 
-## 🎓 About Me
+## 🎓 Currently
 
 * 🎓 BSCS — 5th Semester
-* 📊 Interested in Data Engineering, Business Intelligence & Analytics
-* ☁️ Currently working with Microsoft Fabric and Azure-based data solutions
-* 🐍 Building with Python and SQL
-* 🔍 Always working on practical, real-world projects
+* 📊 Focused on Data Engineering, BI & Analytics
+* ☁️ Building solutions with Microsoft Fabric and Azure
+* 🐍 Working with Python and SQL
+* 🚀 Building practical, real-world projects
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **internships, freelance projects, and opportunities in data, BI, and software development**.
+I'm open to **internships, freelance projects, and junior opportunities** in data, BI, analytics, and software development.
 
-[LinkedIn](www.linkedin.com/in/nayab-naveed) · [GitHub](https://github.com/nyaabnaveed)
+**[LinkedIn](YOUR_LINKEDIN_URL)** | **[Email](nyaabnaveed@gmail.com)**
