@@ -1,10 +1,12 @@
 # Hi, I'm Nayab Naveed 👋
 
-### Data & BI Developer | Microsoft Fabric | SQL | Python | Power BI
+### Data & BI Developer | Microsoft Fabric |AI Automation | SQL | Python | Power BI
 
-I build practical data and analytics solutions that turn raw data into useful insights and business intelligence.
+I build practical data and analytics solutions that turn raw data into useful insights and business intelligence. I also build practical workflows that use AI to generate responses and automate daily tasks that consume so much of your time doing manually.
 
 My current focus is **data engineering, business intelligence, real-time analytics, and cloud-based data platforms**, with hands-on experience using Microsoft Fabric, SQL, Python, Power BI, and Azure services.
+
+For AI Automation my focus is **making practical, real-time workflows** that automate daily tasks.
 
 ---
 
@@ -21,6 +23,10 @@ Python · C++
 
 **Cloud & Platforms**
 Microsoft Azure · Azure Event Hubs · Git · GitHub
+
+**AI Automation Tools**
+Make.com · APIs · n&n
+I am still learning to use new tools & technologies.
 
 ---
 
