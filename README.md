@@ -25,8 +25,7 @@ Python · C++
 Microsoft Azure · Azure Event Hubs · Git · GitHub
 
 **AI Automation Tools**
-Make.com · APIs · n&n
-I am still learning to use new tools & technologies.
+Make.com · APIs · n&n · Learning new tools
 
 ---
 
